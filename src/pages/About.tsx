@@ -77,7 +77,7 @@ const About = () => {
             <div className="text-center">
               <div className="relative w-48 h-48 mx-auto mb-4 overflow-hidden rounded-full">
                 <img 
-                  src="/src/images/team/MsDee_Logo.png" 
+                  src="/src/images/team/MsDee_Logo.png"  
                   alt="Team Member" 
                   className="w-full h-full object-cover"
                 />
@@ -93,7 +93,7 @@ const About = () => {
             <div className="text-center">
               <div className="relative w-48 h-48 mx-auto mb-4 overflow-hidden rounded-full">
                 <img 
-                  src="/src/images/team/MsDee_Logo.png" 
+                  src="/src/images/team/MsDee_Logo.png"  
                   alt="Team Member" 
                   className="w-full h-full object-cover"
                 />
